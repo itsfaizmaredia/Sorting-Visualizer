@@ -8,7 +8,7 @@ To go to website [Click Here](https://itsfaizmaredia.github.io/Sorting-Visualize
 ## Screenshot
 
 ![Screenshot-1](./Screenshot/Screenshot1.png)
-![Screenshot-2](./Screenshot/Screenshort2.png)
+![Screenshot-2](./Screenshot/Screenshot2.png)
 
 
 ## Purpose
